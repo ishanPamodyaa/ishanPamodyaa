@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Full-Stack Projects (Spring Boot + Angular + MySQL)**
 - 🌱 I’m learning **Vue.js | Laravel | Advanced Java**
 - 👯 I’m looking to collaborate on **Open-Source & Real-world Projects**
-- 📫 Reach me at **ishanpamodya@gmail.com**
+- 📫 Reach me at **inishan9999@gmail.com**
 - ⚡ Fun fact: I love building systems that solve **real-world problems**
 
 ---
@@ -20,7 +20,7 @@
   <a href="https://fb.com/ishanpamodya" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:ishanpamodya@gmail.com" target="_blank">
+  <a href="mailto:inishan9999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
